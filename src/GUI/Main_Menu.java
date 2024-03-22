@@ -298,6 +298,7 @@ class UserInfo extends JPanel{
                     } else {
                         JOptionPane.showMessageDialog(this, "El usuario que busca no cuenta con trofeos!");
                       UserInfo.setText("");
+                      //buenas
                     }
                 }
             } catch (Exception Ex){}
